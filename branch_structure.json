@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/claimKey-concurrent-duplicate",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/claimKey-concurrent-duplicate": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/claimKey-concurrent-duplicate",
+    "origin"
+  ]
+}
